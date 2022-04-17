@@ -4,7 +4,7 @@
 This is an exercise I did in Week 8 of MIT xPRO Professional Certificate In Coding: Full Stack Development With MERN course, to display my web development progress. In this exercise a set of "eyes" will follow your mouse around the web page. This is a very simple project yet extremely fun to have undertaken. 
 
 <h2>Installation</h2>
-Download the files found in the repo. Drag and drop Index.html into a web browser to view.
+Download the files found in the repo. Drag and drop index.html into a web browser to view.
 
 <h2>Usage</h2>
 N/A
